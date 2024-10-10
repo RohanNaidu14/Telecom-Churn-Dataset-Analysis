@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/191e8bf6-4b2a-4996-9df3-0664b945b28a)
+
+
 # Telecom-Churn-Dataset-Analysis
 
 Context
